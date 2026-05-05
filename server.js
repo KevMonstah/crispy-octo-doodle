@@ -17,6 +17,7 @@ const PORT = process.env.PORT || 5000;
 // CORS configuration
 const allowedOrigins = [
   'http://localhost:3000',
+  'https://legendary-barnacle-nu.vercel.app/',
   // Your frontend URL will go here as well
 ];
 
